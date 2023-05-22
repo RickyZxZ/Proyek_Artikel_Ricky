@@ -1,0 +1,10 @@
+                <h2>Berikut Inovasi Didunia Pendidikan</h2>
+                <h3>1.Ruang guru</h3>
+              <div class="mt-1 py-5">
+                    <p>
+                       Perusahaan berbasis teknologi digital, bertujuan untuk memberikan solusi permasalahan pendidikan di Indonesia dengan menyediakan platform pembelajaran melalui telepon genggam. Bimbingan belajar setiap materi ditampilkan secara melalui video pembelajaran dan dapat diunduh pengguna. Pengguna dapat membayar puluhan ribu hingga jutaan rupiah untuk setiap paket studi yang mereka pilih. Guru (pengajar) mendapatkan penghasilan sesuai dengan jumlah pengguna yang berpartisipasi dalam pembelajaran. Hingga awal tahun 2018, lebih dari tujuh juta siswa SMA telah menjadi pengguna. Jumlah siswa SMA di Indonesia adalah 14,6 juta ditambah 4,8 juta siswa SMK. Sekarang, aplikasi Ruangguru menjadi nomor satu untuk kategori pendidikan di Google Play dan iOS App Store. Contoh layanan yang disediakan Ruangguru antara lain Ruangguru On-The-Go, aplikasi yang memungkinkan siswa menonton video dengan mudah tanpa kuota internet. Ruangguru juga memberikan kemudahan bagi siswa untuk mengakses ribuan materi video, diskusi dan latihan berbagai topik untuk setiap tingkatan kelas. Video tersebut disusun dan diproduksi oleh Ruangguru bersama tutor-tutor terpilih.</p>
+            </div>
+            <div class="col-4">
+              <img src="img/download.png" alt="">
+            </div>
+            <iframe width="1000" height="595" src="https://www.youtube.com/watch?v=21gdaVITJ38" title="Youtube vidio player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encryted-media; gyroscope; picture-in-pitcure; web-share" allowfullscreen></iframe>
